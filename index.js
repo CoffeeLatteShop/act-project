@@ -1,7 +1,7 @@
 /**
- * GSP-Bot (C) 2019 - Gamer Source Pub
- * Dibuat oleh github:skymunn menggunakan Simple Discord Framework
- * buatan sendiri.
+ * ACT-Bot (C) 2020 - ACT Official Bot "Kitsune"
+ * Dibuat oleh github:itsukiworks menggunakan Simple Discord Framework
+ * buatan github:skymunn.
  */
 
 require('module-alias/register')
